@@ -51,20 +51,8 @@ Welcome to my GitHub profile! I'm currently a PhD candidate at **Karlstad Univer
 - 📝 [Blog / Articles](https://sola.kau.se/deprimap/blog/)
 - 📫 Reach me: `saiganeshveeravalli@gmail.com` or DM via LinkedIn
 
----
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saiganeshv&show_icons=true&theme=default&hide=issues&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiganeshv&theme=default" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiganeshv&layout=compact&langs_count=8&theme=default" width="50%" />
-</p>
 
 
----
 > _“Maps are more than just data. They’re stories of people, patterns, and places — and I use them to drive change.”_
 
 Thanks for stopping by 👋
