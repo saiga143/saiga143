@@ -5,6 +5,13 @@
 Welcome to my GitHub profile! I'm currently a PhD candidate at **Karlstad University, Sweden**, working on spatial modeling and mapping of **deprived urban areas** as part of the **[DEPRIMAP](https://sola.kau.se/deprimap/)** project. My research blends **GIS, Earth Observation, and Machine Learning** to tackle urban inequality, vulnerability, and environmental change in the Global South.
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=saiganeshv&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/saiganeshv?style=social)](https://github.com/saiganeshv)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SaiGaneshVeera1?style=social)](https://x.com/SaiGaneshVeera1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/saiganeshveeravalli/)
+
+
+---
 
 ## 🔬 Research & Technical Focus
 
@@ -19,7 +26,7 @@ Welcome to my GitHub profile! I'm currently a PhD candidate at **Karlstad Univer
 ## 💻 Tech Stack
 
 - **Languages**: Python, SQL, Javascript (basic)
-- **Libraries**: GeoPandas, Rasterio, Scikit-learn, Xarray, rioxarray, Earth Engine API
+- **Libraries**: GeoPandas, Rasterio, Scikit-learn, Xarray, rioxarray and many more
 - **Tools**: ESRI Suite, QGIS, Jupyter, Drone2Map, VSCode, Git and many more
 
 ---
@@ -45,6 +52,22 @@ Welcome to my GitHub profile! I'm currently a PhD candidate at **Karlstad Univer
 - 📫 Reach me: `saiganeshveeravalli@gmail.com` or DM via LinkedIn
 
 ---
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saiganeshv&show_icons=true&theme=default&hide=issues&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiganeshv&theme=default" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiganeshv&layout=compact&langs_count=8&theme=default" width="50%" />
+</p>
+
+
+---
+> _“Maps are more than just data. They’re stories of people, patterns, and places — and I use them to drive change.”_
+
+Thanks for stopping by 👋
 
 <!---
 saiga143/saiga143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
