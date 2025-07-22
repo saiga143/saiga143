@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm currently a PhD candidate at **Karlstad Univer
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=saiga143&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/saiga143?style=social)](https://github.com/saiganeshv)
+[![GitHub followers](https://img.shields.io/github/followers/saiga143?style=social)](https://github.com/saiga143)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SaiGaneshVeera1?style=social)](https://x.com/SaiGaneshVeera1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/saiganeshveeravalli/)
 
