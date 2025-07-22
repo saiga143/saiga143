@@ -5,8 +5,8 @@
 Welcome to my GitHub profile! I'm currently a PhD candidate at **Karlstad University, Sweden**, working on spatial modeling and mapping of **deprived urban areas** as part of the **[DEPRIMAP](https://sola.kau.se/deprimap/)** project. My research blends **GIS, Earth Observation, and Machine Learning** to tackle urban inequality, vulnerability, and environmental change in the Global South.
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=saiganeshv&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/saiganeshv?style=social)](https://github.com/saiganeshv)
+![Profile Views](https://komarev.com/ghpvc/?username=saiga143&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/saiga143?style=social)](https://github.com/saiganeshv)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SaiGaneshVeera1?style=social)](https://x.com/SaiGaneshVeera1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/saiganeshveeravalli/)
 
